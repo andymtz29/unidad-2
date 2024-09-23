@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://bpic.588ku.com/back_pic/06/04/76/826111f4fbd7d1e.jpg');
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+.contenedor {
+    background-color: #7fc9e6;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(106, 190, 241, 0.1);
+    text-align: center;
+}
